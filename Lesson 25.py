@@ -1,8 +1,8 @@
 def greetings(first_name, last_name):
     print(f"Good morning {first_name} {last_name}")
 
-greetings("Chowdhury", "Abhilash")
-greetings(last_name="Chowdhury", first_name="Abhilash")
+greetings("Nisa", "Tazrian")
+greetings(last_name="Tazrian", first_name="Nisa")
 
 print('*' *40)
 
